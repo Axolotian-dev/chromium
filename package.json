@@ -1,0 +1,13 @@
+{
+  "name": "chromium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "start": "vercel start"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
